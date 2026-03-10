@@ -25,11 +25,13 @@ This lab introduces fundamental cybersecurity concepts related to vulnerability 
 - Cyber Kill Chain
 
 |   |Stage                 | Description                                   |
-| 1 |--------------------- | --------------------------------------------- |
-| 2 |Reconnaissance        | Attacker gathers information about the target |
-| 3 |Weaponization         | Attacker prepares malware or exploit          |
-| 4 |Delivery              | Malware or exploit is delivered to the victim |
-| 5 |Exploitation          | Vulnerability is exploited                    |
-| 6 |Installation          | Malware is installed on the victim system     |
-| 7 |Command & Control     | Attacker remotely controls infected system    |
-| 8 |Actions on Objectives | Attacker steals data or damages systems       |
+|---|--------------------- | --------------------------------------------- |
+| 1 |Reconnaissance        | Attacker gathers information about the target |
+| 2 |Weaponization         | Attacker prepares malware or exploit          |
+| 3 |Delivery              | Malware or exploit is delivered to the victim |
+| 4 |Exploitation          | Vulnerability is exploited                    |
+| 5 |Installation          | Malware is installed on the victim system     |
+| 6 |Command & Control     | Attacker remotely controls infected system    |
+| 7 |Actions on Objectives | Attacker steals data or damages systems       |
+
+---------------------------------------------------------------
