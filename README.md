@@ -54,3 +54,22 @@ PURPOSE :
 - Used in vulnerability scanners and security reports
 
 - Helps security teams communicate clearly
+
+---------------------------------------------------------------
+- CWE (a catalog of common software weaknesses that cause vulnerabilities.)
+
+| CVE                                 | CWE                            |
+| ----------------------------------- | ------------------------------ |
+| Identifies a specific vulnerability | Describes the type of weakness |
+| Example: CVE-2021-44228             | Example: SQL Injection         |
+
+
+---------------------------------------------------------------
+- CVSS (measures the severity of a vulnerability using a numerical score from 0.0 to 10.0.)
+
+| Score      | Severity |
+| ---------- | -------- |
+| 0.0 – 3.9  | Low      |
+| 4.0 – 6.9  | Medium   |
+| 7.0 – 8.9  | High     |
+| 9.0 – 10.0 | Critical |
