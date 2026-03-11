@@ -24,7 +24,7 @@ This lab introduces fundamental cybersecurity concepts related to vulnerability 
 
   <img width="883" height="288" alt="Screenshot 2026-03-10 213300" src="https://github.com/user-attachments/assets/2053e8b3-6cec-4dc3-a350-651be90bb7c2" />
 
-<img width="883" height="288" alt="Screenshot 2026-03-10 213240" src="https://github.com/user-attachments/assets/9305797b-11e2-44ee-991a-d54e6e4e90fc" />
+  <img width="883" height="288" alt="Screenshot 2026-03-10 213240" src="https://github.com/user-attachments/assets/9305797b-11e2-44ee-991a-d54e6e4e90fc" />
 
 
  - Vulnerability (a weakness or flaw in a system that attackers can exploit.)
