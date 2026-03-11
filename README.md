@@ -75,3 +75,31 @@ PURPOSE :
 | 4.0 – 6.9  | Medium   |
 | 7.0 – 8.9  | High     |
 | 9.0 – 10.0 | Critical |
+
+
+---------------------------------------------------------------
+- Exploit Database (collection of publicly available exploit codes used for security research and penetration testing.)
+
+  FEATURES:
+  - Public exploit code
+
+- Security research papers
+
+- Vulnerable applications
+
+- Search by CVE, vendor, or exploit type
+
+------------------------------------------------------------
+- Google Dorking (find sensitive information exposed on websites.)
+
+TO IDENTIFY : 
+
+- Exposed files
+
+- Login pages
+
+- Misconfigured servers
+
+- Sensitive data leaks
+
+  
