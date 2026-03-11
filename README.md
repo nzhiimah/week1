@@ -14,11 +14,11 @@ This lab introduces fundamental cybersecurity concepts related to vulnerability 
 
 - Types of Hackers
 
-| White Hat Hacker           |        Black Hat Hacker       |Gray Hat Hackers  |
-| -------------------------- | ----------------------------- |----------------- |
-| Identifies vulnerabilities | Exploits vulnerabilities      |  |
-| Mostly automated           | Mostly manual                 |  |
-| Provides list of issues    | Demonstrates real attack risk |  |
+| White Hat Hacker                           | Black Hat Hacker                   |Gray Hat Hackers  |
+| ----------------------------------------   | ---------------------------------  |----------------- |
+| Ethical hackers                            | Malicious attackers                | Operate between ethical and malicious  |
+| Work legally to identify vulnerabilities   | Exploit systems for personal gain  | May access systems without permission but report vulnerabilities|
+| Help organizations improve security        | May steal data or spread malware   |  |
 
 - Threat (any potential event or action that can cause harm to a system, network, or data.)
 
