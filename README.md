@@ -41,3 +41,16 @@ This lab introduces fundamental cybersecurity concepts related to vulnerability 
 | 7 |Actions on Objectives | Attacker steals data or damages systems       |
 
 ---------------------------------------------------------------
+- CVE (a standardized system used to identify publicly known cybersecurity vulnerabilities.)
+
+FORMAT : CVE -[Year] - [Number]
+
+EXAMPLE : CVE-2021-44228
+
+PURPOSE :
+
+- Standard naming system for vulnerabilities
+
+- Used in vulnerability scanners and security reports
+
+- Helps security teams communicate clearly
