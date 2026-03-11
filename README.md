@@ -67,6 +67,8 @@ PURPOSE :
 ---------------------------------------------------------------
 - CVSS (measures the severity of a vulnerability using a numerical score from 0.0 to 10.0.)
 
+*Security teams use CVSS to prioritize which vulnerabilities need to be fixed first.
+
 | Score      | Severity |
 | ---------- | -------- |
 | 0.0 – 3.9  | Low      |
