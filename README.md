@@ -80,8 +80,9 @@ PURPOSE :
 ---------------------------------------------------------------
 - Exploit Database (collection of publicly available exploit codes used for security research and penetration testing.)
 
-  FEATURES:
-  - Public exploit code
+FEATURES:
+
+- Public exploit code
 
 - Security research papers
 
