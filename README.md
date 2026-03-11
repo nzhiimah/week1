@@ -106,4 +106,5 @@ TO IDENTIFY :
 
 - Sensitive data leaks
 
-  
+ ------------------------------------------------------------
+- Conclusion : This lab introduced key concepts in vulnerability analysis and ethical hacking. It helped improve my understanding of threats, vulnerabilities, and security frameworks used in cybersecurity.
