@@ -1,110 +1,14 @@
-# week1
+# Week 1: Threat VS Vulnerability
 
-- Objective
-  
-This lab introduces fundamental cybersecurity concepts related to vulnerability analysis and ethical hacking. The objective is to understand threats, vulnerabilities, attack processes, and tools used in security analysis.
-
-- VAPT (a process used to identify and evaluate security weaknesses in systems.)
-
-| Vulnerability Assessment   | Penetration Testing           |
-| -------------------------- | ----------------------------- |
-| Identifies vulnerabilities | Exploits vulnerabilities      |
-| Mostly automated           | Mostly manual                 |
-| Provides list of issues    | Demonstrates real attack risk |
-
-- Types of Hackers
-
-| White Hat Hacker                           | Black Hat Hacker                   |Gray Hat Hackers  |
-| ----------------------------------------   | ---------------------------------  |----------------- |
-| Ethical hackers                            | Malicious attackers                | Operate between ethical and malicious  |
-| Work legally to identify vulnerabilities   | Exploit systems for personal gain  | May access systems without permission but report vulnerabilities|
-| Help organizations improve security        | May steal data or spread malware   |  |
-
-- Threat (any potential event or action that can cause harm to a system, network, or data.)
-
-  <img width="883" height="288" alt="Screenshot 2026-03-10 213300" src="https://github.com/user-attachments/assets/2053e8b3-6cec-4dc3-a350-651be90bb7c2" />
-
-  <img width="883" height="288" alt="Screenshot 2026-03-10 213240" src="https://github.com/user-attachments/assets/9305797b-11e2-44ee-991a-d54e6e4e90fc" />
-
-
- - Vulnerability (a weakness or flaw in a system that attackers can exploit.)
-
-   <img width="876" height="574" alt="Screenshot 2026-03-10 213230" src="https://github.com/user-attachments/assets/4cda4f35-b731-4dbc-8265-5953c4f04d68" />
-
-- Cyber Kill Chain
-
-|   |Stage                 | Description                                   |
-|---|--------------------- | --------------------------------------------- |
-| 1 |Reconnaissance        | Attacker gathers information about the target |
-| 2 |Weaponization         | Attacker prepares malware or exploit          |
-| 3 |Delivery              | Malware or exploit is delivered to the victim |
-| 4 |Exploitation          | Vulnerability is exploited                    |
-| 5 |Installation          | Malware is installed on the victim system     |
-| 6 |Command & Control     | Attacker remotely controls infected system    |
-| 7 |Actions on Objectives | Attacker steals data or damages systems       |
-
----------------------------------------------------------------
-- CVE (a standardized system used to identify publicly known cybersecurity vulnerabilities.)
-
-FORMAT : CVE -[Year] - [Number]
-
-EXAMPLE : CVE-2021-44228
-
-PURPOSE :
-
-- Standard naming system for vulnerabilities
-
-- Used in vulnerability scanners and security reports
-
-- Helps security teams communicate clearly
-
----------------------------------------------------------------
-- CWE (a catalog of common software weaknesses that cause vulnerabilities.)
-
-| CVE                                 | CWE                            |
-| ----------------------------------- | ------------------------------ |
-| Identifies a specific vulnerability | Describes the type of weakness |
-| Example: CVE-2021-44228             | Example: SQL Injection         |
-
-
----------------------------------------------------------------
-- CVSS (measures the severity of a vulnerability using a numerical score from 0.0 to 10.0.)
-
-*Security teams use CVSS to prioritize which vulnerabilities need to be fixed first.
-
-| Score      | Severity |
-| ---------- | -------- |
-| 0.0 – 3.9  | Low      |
-| 4.0 – 6.9  | Medium   |
-| 7.0 – 8.9  | High     |
-| 9.0 – 10.0 | Critical |
-
-
----------------------------------------------------------------
-- Exploit Database (collection of publicly available exploit codes used for security research and penetration testing.)
-
-FEATURES:
-
-- Public exploit code
-
-- Security research papers
-
-- Vulnerable applications
-
-- Search by CVE, vendor, or exploit type
-
-------------------------------------------------------------
-- Google Dorking (find sensitive information exposed on websites.)
-
-TO IDENTIFY : 
-
-- Exposed files
-
-- Login pages
-
-- Misconfigured servers
-
-- Sensitive data leaks
-
- ------------------------------------------------------------
-- Conclusion : This lab introduced key concepts in vulnerability analysis and ethical hacking. It helped improve my understanding of threats, vulnerabilities, and security frameworks used in cybersecurity.
+| No | Scenario | Category | Reasoning |
+|----|----------|----------|-----------|
+| 1 | An employee receives an email from “HR Department” asking to verify their login details via a link. | Threat | Phishing — an external malicious attempt to trick a user into revealing credentials. |
+| 2 | A company server is running Windows Server 2012, which no longer receives security updates. | Vulnerability | Outdated/unpatched software — exploitable weakness due to lack of updates. |
+| 3 | A developer accidentally uploads API keys to a public GitHub repository. | Vulnerability | Sensitive information exposure due to misconfiguration or human error. |
+| 4 | A hacker uses a botnet to flood a website with traffic until it becomes unavailable. | Threat | DDoS (Distributed Denial of Service) — an active external attack. |
+| 5 | The firewall in a branch office is misconfigured to allow all inbound traffic. | Vulnerability | Weak configuration that could be exploited. |
+| 6 | An insider copies confidential customer data onto a personal USB drive. | Threat | Insider threat — intentional malicious activity by an authorized person. |
+| 7 | The organization’s password policy allows users to set “12345” as their password. | Vulnerability | Weak access control due to poor policy enforcement. |
+| 8 | Cybercriminals send ransomware through email attachments to multiple employees. | Threat | Ransomware — a direct cyberattack designed to harm and demand payment. |
+| 9 | A company website doesn’t validate user input in its contact form, allowing malicious SQL commands. | Vulnerability | SQL Injection risk — a coding flaw in input validation. |
+| 10 | Attackers use fake job advertisements on social media to trick users into sharing personal data. | Threat | Social engineering — psychological manipulation used to gain sensitive information. |
